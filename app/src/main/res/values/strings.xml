@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Johnnylambada Orientation</string>
+    <string name="float_value">%.4f</string>
+</resources>
