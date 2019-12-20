@@ -43,5 +43,5 @@ implementation "com.github.johnnylambada:johnnylambada-orientation:1.0.0"
 
 ### Review the sample app to see how to integrate the library.
 
-Review the [MainActivity](https://github.com/johnnylambada/johnnylambada-orientatin/blob/master/app/src/main/java/app/MainActivity.java), 
+Review the [MainActivity](https://github.com/johnnylambada/johnnylambada-orientation/blob/master/app/src/main/java/app/MainActivity.java), 
 it shows you how to use the `OrientationReporter` from your activity.
